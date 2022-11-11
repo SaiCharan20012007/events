@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg-container {
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+}
+.content-section {
+  width: 55%;
+  margin: 30px;
+  background-color: #64748b;
+  border-width: 0px;
+  border-radius: 7px;
+  padding: 30px;
+}
+.result-section {
+  width: 40%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.title {
+  color: #f8fafc;
+  font-family: Roboto;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
